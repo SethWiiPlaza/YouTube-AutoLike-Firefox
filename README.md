@@ -1,4 +1,7 @@
  ##  Auto Like YouTube Videos v20.11.2 by Seth@WiiPlaza
+
+ Fine-tune your YouTube algorithm and effortlessly support creators or even your own videos with this script. Works while video is in full-screen.
+ 
   ![Build Image](https://thumbs2.imgbox.com/30/cf/xfEdJdzG_t.jpg)
 
   In this version:
