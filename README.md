@@ -1,4 +1,4 @@
- ##  Auto Like YouTube Videos v20.11.0 by Seth@WiiPlaza
+ ##  Auto Like YouTube Videos v20.11.2 by Seth@WiiPlaza
   ![Build Image](https://thumbs2.imgbox.com/30/cf/xfEdJdzG_t.jpg)
 
   In this version:
